@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blush-beauty-products/static/css/main.139d5b8f.css",
-    "main.js": "/Blush-beauty-products/static/js/main.863c477d.js",
+    "main.js": "/Blush-beauty-products/static/js/main.aa581bb1.js",
     "static/media/bghair.png": "/Blush-beauty-products/static/media/bghair.90d7812df8488029b10b.png",
     "static/media/mainbglower.jpg": "/Blush-beauty-products/static/media/mainbglower.51edfa84326540880b12.jpg",
     "static/media/mainbgupper.jpg": "/Blush-beauty-products/static/media/mainbgupper.7f1052564c0386719102.jpg",
@@ -71,10 +71,10 @@
     "static/media/deals8.jpg": "/Blush-beauty-products/static/media/deals8.686298fb42356d3d07f5.jpg",
     "index.html": "/Blush-beauty-products/index.html",
     "main.139d5b8f.css.map": "/Blush-beauty-products/static/css/main.139d5b8f.css.map",
-    "main.863c477d.js.map": "/Blush-beauty-products/static/js/main.863c477d.js.map"
+    "main.aa581bb1.js.map": "/Blush-beauty-products/static/js/main.aa581bb1.js.map"
   },
   "entrypoints": [
     "static/css/main.139d5b8f.css",
-    "static/js/main.863c477d.js"
+    "static/js/main.aa581bb1.js"
   ]
 }
